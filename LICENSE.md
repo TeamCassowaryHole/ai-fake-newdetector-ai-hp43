@@ -1,4 +1,4 @@
-# 
+# Best AI Fake News Detector scripts. Featuring data-augmentation and feature-extraction — optimized for maximum performance.
 
 
 
